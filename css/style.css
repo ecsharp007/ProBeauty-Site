@@ -1,0 +1,129 @@
+body{
+	margin:0px;
+	text-align:center;
+}
+a{
+	outline:none;
+}
+.clear{
+	clear:both;
+}
+.flt_left{
+	float:left;
+}
+.img_bord{
+	border:none;
+}
+.main_div{
+	width:1000px;
+	text-align:left;
+	margin:auto;
+}
+.main_bg1{
+	background:url(../images/home_bg.png) #000000 center top no-repeat;
+}
+.pro_beauty{
+	background:url(../images/pro_beauty.gif) left top no-repeat;
+	height:56px;
+	margin:0 0 0 1px;
+}
+.menu{
+	padding:10px 0 0 14px;
+}
+.menu ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.menu li{
+	float:left;
+}
+.fb_icon_bg{
+	background:url(../images/fb_ico_bg.gif) left top no-repeat;
+	padding:92px 0 0 0;
+}
+.main_bg2{
+	background:url(../images/home_bg.png) #000000 center top no-repeat;
+}
+.services_bg{
+	background:url(../images/service_bg.png) left top no-repeat;
+	height:436px;
+	padding:35px 0 0 102px;
+	color:#FFFFFF;
+	font-size:22px;
+	font-family:"Times New Roman", Times, serif;
+}
+.services_bg p{
+	margin:0px
+}
+.services_bg ul{
+	margin:0px;
+	padding:50px 0 0 0;
+	list-style:none;
+}
+.home_content{
+	padding:526px 0 0 343px;
+}
+.service_content{
+	padding:111px 0 0 343px;
+}
+.service_bg{
+	background:url(../images/gallery_bg.png) #000000 center top no-repeat;
+}
+.gallery_content{
+	padding:41px 0 0 39px;
+}
+.gallery_thumbs ul,
+.gallery_content ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+	width:150px;
+}
+.gallery_thumbs ul {
+	position:absolute;
+	top:0;
+}
+.gallery_content li,
+.gallery_thumbs li{
+	line-height:11px;
+}
+.nav{
+	position:relative; height:392px; overflow:hidden;
+}
+.nav li a img{
+	width:130px;
+	margin:3px 0 3px 0;
+	height:120px;
+	border:#CCCCCC 2px solid;
+	
+}
+.nav li a img:hover{
+	border:#f0f4f6 2px solid;
+}
+.gallery_thumbs{
+	padding:0 0 0 103px;
+	width:160px;
+	float:left;
+}
+.arrow{
+	text-align:center;
+	width:35px;
+	height:11px;
+	margin:3px 0 3px 50px;
+}
+.large_img img{
+	border:3px solid #FFFFFF;
+	position:absolute;
+	left:0;
+	top:0;
+}
+.large_img{
+	float:left;
+	margin:108px 0 0;
+	position:relative;
+}
+.bridal{
+	text-align:center;
+	padding:12px 0 20px 0;
+}
